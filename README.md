@@ -1,5 +1,7 @@
 # RabbitMQ Tutorial
 
+<img src="bunny.jpg" width="150" height="150" style="border-radius: 50%;">
+
 RabbitMQ is an open-source message broker that allows applications to communicate asynchronously using messages. This tutorial will guide you through setting up RabbitMQ and using it in a simple producer-consumer model.
 
 ## Key Concepts in RabbitMQ
